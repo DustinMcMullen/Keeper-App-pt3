@@ -11,7 +11,6 @@ function CreateArea(props) {
       setNoteTitle(value);
     } else if (name === "content") {
       setNoteContent(value);
-      // } else if (name === "createNote") {
     }
   }
 
